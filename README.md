@@ -6,7 +6,7 @@ This dashboard serves as a powerful tool for analyzing fan engagement, understan
 ![Insight artist](https://github.com/pascalsoh/Insights-artist/blob/7025f5a084cc9815cddd7ccbae537f6f6167e21e/picture/Capture%20d'%C3%A9cran%202025-04-11%20191809%20-%20Copie.png)
 *Insight Dashboard Page*
 
-![[comment artist](https://github.com/pascalsoh/Insights-artist/blob/7025f5a084cc9815cddd7ccbae537f6f6167e21e/picture/Capture%20d'%C3%A9cran%202025-04-11%20195844%20-%20Copie.png)
+![comment artist](https://github.com/pascalsoh/Insights-artist/blob/7025f5a084cc9815cddd7ccbae537f6f6167e21e/picture/Capture%20d'%C3%A9cran%202025-04-11%20195844%20-%20Copie.png)
 *comments Dashboard Page*
 
 **🎧 Tableau de Bord YouTube – Collaboration Burna Boy x Joe Dwet File**
