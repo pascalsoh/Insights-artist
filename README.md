@@ -3,6 +3,12 @@
 This Power BI interactive dashboard provides a detailed analysis of audience engagement through YouTube comments on a collaboration between Burna Boy and Joe Dwet File. It highlights community reactions and sentiment patterns around the music video, enabling insights into user interaction and trends. 
 This dashboard serves as a powerful tool for analyzing fan engagement, understanding audience preferences, and identifying viral traction across time periods. It is ideal for music marketers, data analysts, and content creators looking to decode YouTube audience behavior.
 
+![Insight artist](https://github.com/pascalsoh/Insights-artist/blob/7025f5a084cc9815cddd7ccbae537f6f6167e21e/picture/Capture%20d'%C3%A9cran%202025-04-11%20191809%20-%20Copie.png)
+*Insight Dashboard Page*
+
+![[Insight artist](https://github.com/pascalsoh/Insights-artist/blob/7025f5a084cc9815cddd7ccbae537f6f6167e21e/picture/Capture%20d'%C3%A9cran%202025-04-11%20195844%20-%20Copie.png)
+*comments Dashboard Page*
+
 **🎧 Tableau de Bord YouTube – Collaboration Burna Boy x Joe Dwet File**
 
 Ce tableau de bord interactif Power BI propose une analyse détaillée de l’engagement du public à travers les commentaires YouTube sur la collaboration entre Burna Boy et Joe Dwet File. Il met en lumière les réactions de la communauté et les tendances de sentiment autour du clip, offrant des insights précieux sur l’interaction des utilisateurs et les dynamiques d’engagement.
